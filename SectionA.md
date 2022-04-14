@@ -23,5 +23,7 @@ It's a great tool. Think , You could hash your personal info and only you could 
 
 Q4)How would you prove to a colorblind person that two different colored objects are actually of different colors?
 
-
+Answer: I will take two envelopes and write 2 colors name on them , say, orange and yellow. Now I will ask the colorblind person to open the envelopes to satisfy himself if the 2 envelopes have different colors. 
+Now , in the next turn , I will change the color written to other, say red and green . 
+This process will continue till the person is satisfied that I am telling the truth.
 
